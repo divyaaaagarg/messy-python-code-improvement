@@ -1,0 +1,3 @@
+Names: Aarav, Meera, Kabir
+Marks: 78, 91, 67
+Pass mark: 40
